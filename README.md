@@ -151,7 +151,7 @@ pip install torch torchvision torchsummary numpy matplotlib seaborn scikit-learn
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/hedayet-ullah-patwary/CVPR_MID_ASSIGNMENT.git
 cd <repo-name>
 ```
 
